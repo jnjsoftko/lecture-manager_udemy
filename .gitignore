@@ -1,7 +1,13 @@
+# nodejs
+node_modules/
+
 # Build and Release Folders
 dist/
 
-# privates
+# Private Filers
 .env
-_documents/
+.prettierrc
 
+# Private Folders
+_documents/
+utils/
